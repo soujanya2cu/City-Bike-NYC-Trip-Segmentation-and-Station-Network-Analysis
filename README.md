@@ -5,6 +5,6 @@ The project goal was to segment Citi Bike trips using daily weather information 
 
 #Tools used
 
-SAS
-Enterprise Miner
+SAS,
+Enterprise Miner,
 SAS Visual Analytics
